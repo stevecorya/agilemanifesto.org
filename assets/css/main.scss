@@ -1,9 +1,11 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/vendor';
-@import 'libs/breakpoints';
-@import 'libs/html-grid';
+---
+---
+@import 'vars';
+@import 'functions';
+@import 'mixins';
+@import 'vendor';
+@import 'breakpoints';
+@import 'html-grid';
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic');
 
